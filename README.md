@@ -3,7 +3,7 @@ Community-curated list of software packages and data resources for techniques in
 
 ## Contents
 - [Software packages](#software-packages)
-    - [frameworks](#frameworks)
+    - [Frameworks](#frameworks)
 - [Models](#models)
     - [Convolutional](#convolutional)
     - [Recurrent](#recurrent)
@@ -36,7 +36,8 @@ Community-curated list of software packages and data resources for techniques in
 
 ### APIs
 - [EUGENe]() - [Python]
-- [Kipoi]() = 
+- [DeepChem](https://github.com/deepchem/deepchem)
+- [Kipoi]() - 
 - [Selene]()
 - [Janggu]()
 - [HuggingFace]()
@@ -77,7 +78,11 @@ Community-curated list of software packages and data resources for techniques in
 - ENCODE
 - Roadmap
 
-###
+### Chemoinformatics
+- 
+
+### Single cell
+- 
 
 ## Tutorials and workflows
 
@@ -90,5 +95,9 @@ Community-curated list of software packages and data resources for techniques in
 ### Methods comparisons
 
 ## Similar lists and collections
+
+- [deeplearning-biology](https://github.com/hussius/deeplearning-biology)
+- [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio)
+- [awesome-deep-learning-4-life-sciences](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences)
 
 ## People
