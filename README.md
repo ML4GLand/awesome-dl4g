@@ -29,7 +29,7 @@ Community-curated list of software packages and data resources for techniques in
     - [Experimental design](#experimental-design)
     - [Methods comparisons](#methods-comparisons)
 - [Similar lists and collections](#similar-lists-and-collections)
-- [People](#people)
+- [Awesome people](#awesome-people)
 
 ## Software packages
 
@@ -130,25 +130,30 @@ Community-curated list of software packages and data resources for techniques in
 ## Models
 
 ### Convolutional
-- [DeepBind]()
-- [DeepSEA]()
-- [Basset]()
-- [Basenji]()
-- [ResidualBind]()
+- [DeepBind](https://adamklie.notion.site/DeepBind-4efb733a7a114b409ad824b9ff22113a) [[paper](https://www.nature.com/articles/nbt.3300), [PyTorch](https://github.com/MedChaabane/DeepBind-with-PyTorch), [EUGENe](https://github.com/cartercompbio/EUGENe/blob/refactor_models/eugene/models/_sequence_to_function.py#L1087)] - One of the seminal convolutional based architectures trained to predict the binding of transcription factors and rna binding proteins.
+
+- DeepSEA
+
+- Basset
+
+- Basenji
+
+- ResidualBind
 
 ### Recurrent
 - 
 
 ### Hybrid
-- [DanQ]()
-- [DeepMEL]()
-- [DeepFlyBrain]()
+- [DanQ](https://adamklie.notion.site/DanQ-feb2add7e355477cbcba5056035271ab) [[paper](), [Keras](https://github.com/uci-cbcl/DanQ/blob/master/DanQ_train.py), [Selene](https://github.com/FunctionLab/selene/blob/master/models/danQ.py), [DeepATT](https://github.com/ljw-struggle/Bioinfor-DeepATT/blob/main/model/model.py), [evo_aug](https://github.com/nkl27/genomic_augmentations/blob/main/supervised.py)] - Trained on the same dataset as DeepSEA to predict binarized epigenomic tracks from ENCODE and Roadmap. Added in a bi-directional LSTM layer after the convolutions and experimented with initializing convoultional filter weights with motifs.
+
+- DeepMEL
+- DeepFlyBrain
 
 ### Autoencoder
 - []()
 
 ### Transformer
-- [Enformer]()
+- Enformer
 
 ### Generative
 - []()
@@ -156,8 +161,8 @@ Community-curated list of software packages and data resources for techniques in
 ## Datasets and databases
 
 ### Transcriptomic
-- (GTEX)[]
-- FANTOM5[]
+- GTEX
+- FANTOM5
 
 ### Epigenomic
 - ENCODE
@@ -169,6 +174,9 @@ Community-curated list of software packages and data resources for techniques in
 ### Single cell
 - 
 
+### RNA binding
+- [RNA complete](https://adamklie.notion.site/ray13-87a0deeb42af4a83b852f27146f0894a) - in vitro RNA-binding protein assay of 244 RNA binding proteins. The dataset is downloaded as a single TSV file with RNA probes as rows and RNA binding proteins (RBP) as columns. Each entry in the table is an intensity measurement (can be normalized or raw) of the binding of each protein to each probe. There are over 244 RBP columns and 241,357 sequences spanning two sets (SetA and SetB)
+
 ## Tutorials and workflows
 
 ## Journal articles of general interest
@@ -176,6 +184,10 @@ Community-curated list of software packages and data resources for techniques in
 ### Paper collections
 
 ### Experimental design
+- [DL4G Reviews]()
+- [Datasets]()
+- [Models](https://paperpile.com/shared/osZ2xM)
+- [Model interpretability]()
 
 ### Methods comparisons
 
@@ -185,4 +197,6 @@ Community-curated list of software packages and data resources for techniques in
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio)
 - [awesome-deep-learning-4-life-sciences](https://github.com/virtualramblas/awesome-deep-learning-4-life-sciences)
 
-## People
+## Awesome people
+
+- 
