@@ -182,14 +182,11 @@ Community-curated list of software packages and data resources for techniques in
 ## Journal articles of general interest
 
 ### Paper collections
-
-### Experimental design
-- [DL4G Reviews]()
-- [Datasets]()
-- [Models](https://paperpile.com/shared/osZ2xM)
-- [Model interpretability]()
-
-### Methods comparisons
+- [DL4G Reviews](https://paperpile.com/shared/RysG1T)
+- [Datasets](https://paperpile.com/shared/v2y681)
+- [Models](https://paperpile.com/shared/XXoDYi)
+- [Model interpretability](https://paperpile.com/shared/HDTUfv)
+- [Methods comparisons](https://paperpile.com/shared/BiDh7G)
 
 ## Similar lists and collections
 
