@@ -19,7 +19,7 @@ Community-curated list of software packages and data resources for techniques in
 - [Datasets and databases](#datasets-and-databases)
   - [Transcriptomic]
   - [Epigenomic]
-- Interpetation methods(#intepretation-methods)
+- [Interpetation methods](#interpretability)
   - [Neuron visualizations]
   - [Feature attributions]
   - [*In-silico*]
